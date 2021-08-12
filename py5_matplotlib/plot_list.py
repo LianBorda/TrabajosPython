@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 lista =[]
-numero = int(input('ingrese el numero a evaluar :'))
+numero = 17
 
 while numero != 1: 
 
