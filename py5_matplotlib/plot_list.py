@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 lista =[]
-numero = 17
+numero = 14
 
 while numero != 1: 
 
